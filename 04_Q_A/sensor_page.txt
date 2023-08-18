@@ -1,0 +1,25 @@
+Scientifically-validated sensors
+An irrigation support system is only as good as the measurements it depends on.
+Accurate, reliable sensors are a must.
+
+Bad data is worse than no data
+That's why we set the industry standard with the best, scientifically-validated sensor technology
+
+Buried sensors
+Measure the right thing
+We use buried soil sensors because they provide the most realistic measurement of actual soil conditions.
+Our buried sensors provide the most correct measurement of the soil because they do not disturb water flow after installation. 
+Drill-and-drop probes might be easier to install, but if you can not trust the measurement, what good are they? Sensors of the probe design provoke what is called preferential flow where water from rain and irrigation is more prone to travel along the surface of the stick, leading to misleadingly high measurements.
+
+TDT Technology
+Measure accurately
+TDT technology is along with TDR the only sensor technology that provides trustworthy measurements for irrigation scheduling. Trust science, not marketing. Our soil sensor delivers an unprecedented accuracy across soil types at an affordable cost. We take great pride in having scientific backing for our claims, and we are happy to provide you with the material.
+Accuracy is not only about the variability in a laboratory setting. It is more so about how reliable the measurements are across different settings and environmental factors such as soil types, variations in EC, and soil compaction. Most other solutions rely on capacitive sensors that have proven unfit for this purpose.
+
+Approved by science, Trust your measurements.
+We only claim what research supports. At your request, we are happy to provide you with scientific validation of our claims.
+If you are considering an alternative solution, we will gladly help you compare it to ours based on scientific literature
+Use the TDT technologyWhy is TDT a superior sensing technology? One of the reasons is measurement frequency.
+Soil moisture sensors estimate water indirectly from the permittivity of the soil. The problem is that at the low operating frequency of capacitive sensors, the permittivity is not linear in all soil types. As a consequence you will experience moisture variations not because of water changes, but because of soil variations.
+Our sensors perform accurately across any soil type since they operate at 150-300 MHz.
+

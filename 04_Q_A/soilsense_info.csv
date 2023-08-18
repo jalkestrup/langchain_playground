@@ -1,0 +1,142 @@
+document_name,content
+landing_page,"Take the guesswork out of irrigation
+We offer a simple, robust and affordable soil sensor system to help orchard managers, greenhouse growers and high-value field crop farmers manage and optimize irrigation
+
+Save water
+Avoid over-irrigation and irrigate only when necessary
+
+Increase yield
+Irrigate correctly throughout the varied phenological stages of your crops
+
+Reduce risk
+Get notified immediately if the soil is getting too dry or an over-irrigation occurres
+
+Save time
+Save time on inspecting the soil manually with a system that requires no maintenance
+
+Listen to our customers
+Jesper, Operational Manager at Markhaven
+Markhaven is a large supplier of organic tomatoes and cucumbers. In 2020 they decided to switch their previous soil sensor system to SoilSense, because it was more reliable and easier to use.
+
+Ole, Operational Manager at Ørskov Foods
+Ørskov Foods is Denmark's largest producer of apples. They are using SoilSense to control the growth of their trees in order to increase yield and optimize water usage.
+
+The best on the market
+The best soil moisture sensors, thoroughly tested wireless infrastructure, automatic data analysis, and an easy to use software platform
+
+Real insights, automatic data analysis
+Obtaining soil data is only half of the solution. If you need to spend hours analyzing graphs to make a decision, the system will not be used. That´s why we focus on providing simple insights based on our unique automatic data analysis
+
+Best sensors, scientifically proven
+Trustworthy data is the foundation for any decision support tool. That's why we use high accuracy TDT sensors. Unlike most existing solutions, we don't claim something we can't back up with scientific evidence
+
+Robust Hardware, From desert to snow
+Our dataloggers and gateway units are developed in Denmark with reliability in mind. The product is currently in use in extreme environments: from the Peruvian dessert to a snowy and cold winter in Scandinavia
+
+Avoiding plant stress
+Our accurate soil-moisture sensors make sure that you will be warned before the soil gets too dry and starts limiting growth.
+
+Saving water
+As the first system in the world, our algorithms automatically detect field capacity and warn you if you over-irrigate.
+
+Easy-to-use software
+Our software deliver actionable insights rather than raw data. Your data can be accessed any time via mobile or computer.
+
+Overview of irrigation
+Overview of monthly irrigation events ensure that your irrigation system operate as intended
+
+WhatsApp, text and email notifications
+Set alarms with a single click and receive notifications on WhatsApp, text or email when critical thresholds are reached.
+
+Air temperature (beta feature)
+With measurements of air-temperature you can set up frost-alarms for your farm and understand the micro climate better.
+
+Wireless LoRa system
+By using the newest LoRa wireless technology, we are achieving industry best wireless range even in plantations.
+
+Minimal maintainence
+Our sensors can be left in the soil for 10 years, and the replaceable AA batteries in the datalogger lasts for 2 years.
+
+SoilSense Online DashboardAccess your data from any phone, tablet or computer and get a real-time overview 24/7
+Get a quick overviewObtain an overview of the water requirements while on the go and dive into the details with a single click. Set alarms and receive notifications directly on your phone via Whatsapp or SMS if critical parameters reach the thresholds you setUnderstand the detailsOur intuitive interface makes it easy to navigate and unfold the details of your soil in order to examine the relationship between temperature, moisture and plant growth - so that you can take better decision when planning irrigation
+
+"
+sensor_page,"Scientifically-validated sensors
+An irrigation support system is only as good as the measurements it depends on.
+Accurate, reliable sensors are a must.
+
+Bad data is worse than no data
+That's why we set the industry standard with the best, scientifically-validated sensor technology
+
+Buried sensors
+Measure the right thing
+We use buried soil sensors because they provide the most realistic measurement of actual soil conditions.
+Our buried sensors provide the most correct measurement of the soil because they do not disturb water flow after installation. 
+Drill-and-drop probes might be easier to install, but if you can not trust the measurement, what good are they? Sensors of the probe design provoke what is called preferential flow where water from rain and irrigation is more prone to travel along the surface of the stick, leading to misleadingly high measurements.
+
+TDT Technology
+Measure accurately
+TDT technology is along with TDR the only sensor technology that provides trustworthy measurements for irrigation scheduling. Trust science, not marketing. Our soil sensor delivers an unprecedented accuracy across soil types at an affordable cost. We take great pride in having scientific backing for our claims, and we are happy to provide you with the material.
+Accuracy is not only about the variability in a laboratory setting. It is more so about how reliable the measurements are across different settings and environmental factors such as soil types, variations in EC, and soil compaction. Most other solutions rely on capacitive sensors that have proven unfit for this purpose.
+
+Approved by science, Trust your measurements.
+We only claim what research supports. At your request, we are happy to provide you with scientific validation of our claims.
+If you are considering an alternative solution, we will gladly help you compare it to ours based on scientific literature
+Use the TDT technologyWhy is TDT a superior sensing technology? One of the reasons is measurement frequency.
+Soil moisture sensors estimate water indirectly from the permittivity of the soil. The problem is that at the low operating frequency of capacitive sensors, the permittivity is not linear in all soil types. As a consequence you will experience moisture variations not because of water changes, but because of soil variations.
+Our sensors perform accurately across any soil type since they operate at 150-300 MHz.
+
+"
+wireless_page,"Reliable, wireless system
+A robust system of dataloggers and gateways tailored to your needs to ensure ease of installation and reliable data transfer under any conditions. Without maintenance.
+
+Reliable infrastructure. Easy to set up.Our devices are built for the future, using the latest technological advancements in low-power electronics. Not only is our system robust, but it is also easy to install. Simply add the sensors during installation via our app and we will ensure to notify you if anything requires your attention.
+
+Proved in 8 countries on 3 continents
+From a Peruvian desert to a Swedish winter. Our system is currently being used by farmers in Denmark, Germany, Sweden, Lithuania, Kenya, and Peru.
+
+Off-grid capability
+The SoilSense gateway can be powered by solar panels and the dataloggers simply run on standard AA batteries for years to come
+
+LoRa wireless
+Long range low power technology coupled with high gain antennas provide excellent coverage even in dense plantations, and metal greenhouses
+
+Easy set up
+Simply add the dataloggers via our app and have data flowing via our gateway in the matter of minutes
+
+Maintainence free
+Our equipment is designed to endure the outdoors, all you have to do, is replace the standard AA batteries in the dataloggers every third year.
+
+Data 24/7
+As a standard, our system automatically logs data every 20 minutes (adjustable) to ensure that measurements are always up-to-date
+
+Free support
+If technical issues should arise, our engineers are always available to assist immediately and at no cost via phone
+
+Soil moisture sensor system
+For complete technical specifications request the datasheets of our products below:
+
+Datalogger
+LoRa wireless technology
+Up to 4 sensors per datalogger
+SDI-12, analog input and 2-wire sensor support
+2 years battery life on two regular AA batteries
+Easy to replace batteries
+Magnetic reset
+LED indicator for status
+
+Gateway
+LoRa wireless technology
+High gain external antennas (Optional)
+GSM/2G connectivity (M2M SIM included)
+LiFePO4 batteries for extreme temperatures
+Solar powered (optional) or regular 230V plug
+Magnetic reset
+
+Sensor SMT100
+Volumetric Water Content accuracy: ± 1%
+Volumetric Water Content resolution: 0.1%
+Volumetric Water Content range: 0 to 60% (up to 100% with limited accuracy)
+Temperature accuracy: ± 0.2°C
+Temperature resolution: 0.01°C
+Dimensions: 18.2 cm x 3 cm x 1.2 cm"

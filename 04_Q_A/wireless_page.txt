@@ -1,0 +1,53 @@
+Reliable, wireless system
+A robust system of dataloggers and gateways tailored to your needs to ensure ease of installation and reliable data transfer under any conditions. Without maintenance.
+
+Reliable infrastructure. Easy to set up.Our devices are built for the future, using the latest technological advancements in low-power electronics. Not only is our system robust, but it is also easy to install. Simply add the sensors during installation via our app and we will ensure to notify you if anything requires your attention.
+
+Proved in 8 countries on 3 continents
+From a Peruvian desert to a Swedish winter. Our system is currently being used by farmers in Denmark, Germany, Sweden, Lithuania, Kenya, and Peru.
+
+Off-grid capability
+The SoilSense gateway can be powered by solar panels and the dataloggers simply run on standard AA batteries for years to come
+
+LoRa wireless
+Long range low power technology coupled with high gain antennas provide excellent coverage even in dense plantations, and metal greenhouses
+
+Easy set up
+Simply add the dataloggers via our app and have data flowing via our gateway in the matter of minutes
+
+Maintainence free
+Our equipment is designed to endure the outdoors, all you have to do, is replace the standard AA batteries in the dataloggers every third year.
+
+Data 24/7
+As a standard, our system automatically logs data every 20 minutes (adjustable) to ensure that measurements are always up-to-date
+
+Free support
+If technical issues should arise, our engineers are always available to assist immediately and at no cost via phone
+
+Soil moisture sensor system
+For complete technical specifications request the datasheets of our products below:
+
+Datalogger
+LoRa wireless technology
+Up to 4 sensors per datalogger
+SDI-12, analog input and 2-wire sensor support
+2 years battery life on two regular AA batteries
+Easy to replace batteries
+Magnetic reset
+LED indicator for status
+
+Gateway
+LoRa wireless technology
+High gain external antennas (Optional)
+GSM/2G connectivity (M2M SIM included)
+LiFePO4 batteries for extreme temperatures
+Solar powered (optional) or regular 230V plug
+Magnetic reset
+
+Sensor SMT100
+Volumetric Water Content accuracy: ± 1%
+Volumetric Water Content resolution: 0.1%
+Volumetric Water Content range: 0 to 60% (up to 100% with limited accuracy)
+Temperature accuracy: ± 0.2°C
+Temperature resolution: 0.01°C
+Dimensions: 18.2 cm x 3 cm x 1.2 cm
